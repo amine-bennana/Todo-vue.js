@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Apprendre les bases de Vue 3",
+      "done": true
+    },
+    {
+      "id": "2",
+      "title": "Découvrir la Composition API",
+      "done": false
+    },
+    {
+      "id": "3",
+      "title": "Configurer Pinia pour le state",
+      "done": false
+    },
+    {
+      "title": "swssq",
+      "done": false,
+      "id": "mUyjjdtZ6xQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
